@@ -1,10 +1,15 @@
 /* TODO: Add a rule for images, so they never exceed their container's width. */
 
+.images {
+  max-width: 100%;
+}
+
 body {
   line-height: 1.5;
   font-size: 100%;
   color: #313131;
 }
+
 
 hr {
   margin: 1em;
